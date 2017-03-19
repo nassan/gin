@@ -17,7 +17,7 @@ import (
 
 	"github.com/gin-gonic/gin/binding"
 	"github.com/gin-gonic/gin/render"
-	"gopkg.in/gin-contrib/sse.v0"
+	"github.com/manucorporat/sse"
 )
 
 // Content-Type MIME of the most common data formats
