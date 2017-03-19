@@ -13,7 +13,7 @@ install:
   - go get -v github.com/kardianos/govendor
   - govendor sync
   - go get -u github.com/campoy/embedmd
-  - go get -u github.com/gin-gonic/gin/render
+  - go get -u github.com/gin-gonic/gin
 
 
 script:
